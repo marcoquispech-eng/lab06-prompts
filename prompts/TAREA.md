@@ -35,14 +35,12 @@ Actúa como desarrollador de Python y docente para principiantes. Crea un progra
 ## Componentes del prompt final
 
 | Componente  | Texto de mi prompt final                                                                                                                           |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Rol         | Actúa como desarrollador de Python y docente para principiantes.                                                                                   |
 | Instrucción | Debe tener un menú para registrar, listar, buscar objetos y salir. Guarda cada objeto en una lista de diccionarios con descripción, lugar y fecha; |
-| Contexto    | Crea un programa de consola para registrar objetos perdidos de estudiantes.                                                                        |     |
+| Contexto    | Crea un programa de consola para registrar objetos perdidos de estudiantes.                                                                        |
 | Ejemplo     | por ejemplo: descripción "Mochila negra", lugar "Biblioteca" y fecha "23/09/2026".                                                                 |
 | Formato     | Explica brevemente cómo funciona la lista y después presenta el código completo en un solo bloque de Python.                                       |
-
-**Restricciones del prompt:** «Valida que los campos no estén vacíos y que la fecha tenga el formato DD/MM/AAAA. No uses librerías externas, archivos ni bases de datos.»
 
 ## Evaluación del resultado
 
